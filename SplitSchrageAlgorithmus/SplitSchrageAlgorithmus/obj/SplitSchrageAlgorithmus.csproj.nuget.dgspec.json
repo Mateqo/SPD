@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\User\\Desktop\\repozytorium\\SPD\\AlgorytmSchrage\\AlgorytmSchrage\\AlgorytmSchrage.csproj": {}
+    "C:\\Users\\User\\source\\repos\\SplitSchrageAlgorithmus\\SplitSchrageAlgorithmus\\SplitSchrageAlgorithmus.csproj": {}
   },
   "projects": {
-    "D:\\Users\\User\\Desktop\\repozytorium\\SPD\\AlgorytmSchrage\\AlgorytmSchrage\\AlgorytmSchrage.csproj": {
+    "C:\\Users\\User\\source\\repos\\SplitSchrageAlgorithmus\\SplitSchrageAlgorithmus\\SplitSchrageAlgorithmus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\User\\Desktop\\repozytorium\\SPD\\AlgorytmSchrage\\AlgorytmSchrage\\AlgorytmSchrage.csproj",
-        "projectName": "AlgorytmSchrage",
-        "projectPath": "D:\\Users\\User\\Desktop\\repozytorium\\SPD\\AlgorytmSchrage\\AlgorytmSchrage\\AlgorytmSchrage.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\SplitSchrageAlgorithmus\\SplitSchrageAlgorithmus\\SplitSchrageAlgorithmus.csproj",
+        "projectName": "SplitSchrageAlgorithmus",
+        "projectPath": "C:\\Users\\User\\source\\repos\\SplitSchrageAlgorithmus\\SplitSchrageAlgorithmus\\SplitSchrageAlgorithmus.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\User\\Desktop\\repozytorium\\SPD\\AlgorytmSchrage\\AlgorytmSchrage\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\SplitSchrageAlgorithmus\\SplitSchrageAlgorithmus\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -11,3 +11,16 @@ C:\Users\User\source\repos\AlgorytmSchrage\AlgorytmSchrage\obj\Debug\netcoreapp3
 C:\Users\User\source\repos\AlgorytmSchrage\AlgorytmSchrage\obj\Debug\netcoreapp3.1\AlgorytmSchrage.dll
 C:\Users\User\source\repos\AlgorytmSchrage\AlgorytmSchrage\obj\Debug\netcoreapp3.1\AlgorytmSchrage.pdb
 C:\Users\User\source\repos\AlgorytmSchrage\AlgorytmSchrage\obj\Debug\netcoreapp3.1\AlgorytmSchrage.genruntimeconfig.cache
+D:\Users\User\Desktop\repozytorium\SPD\AlgorytmSchrage\AlgorytmSchrage\bin\Debug\netcoreapp3.1\AlgorytmSchrage.exe
+D:\Users\User\Desktop\repozytorium\SPD\AlgorytmSchrage\AlgorytmSchrage\bin\Debug\netcoreapp3.1\AlgorytmSchrage.deps.json
+D:\Users\User\Desktop\repozytorium\SPD\AlgorytmSchrage\AlgorytmSchrage\bin\Debug\netcoreapp3.1\AlgorytmSchrage.runtimeconfig.json
+D:\Users\User\Desktop\repozytorium\SPD\AlgorytmSchrage\AlgorytmSchrage\bin\Debug\netcoreapp3.1\AlgorytmSchrage.runtimeconfig.dev.json
+D:\Users\User\Desktop\repozytorium\SPD\AlgorytmSchrage\AlgorytmSchrage\bin\Debug\netcoreapp3.1\AlgorytmSchrage.dll
+D:\Users\User\Desktop\repozytorium\SPD\AlgorytmSchrage\AlgorytmSchrage\bin\Debug\netcoreapp3.1\AlgorytmSchrage.pdb
+D:\Users\User\Desktop\repozytorium\SPD\AlgorytmSchrage\AlgorytmSchrage\obj\Debug\netcoreapp3.1\AlgorytmSchrage.csprojAssemblyReference.cache
+D:\Users\User\Desktop\repozytorium\SPD\AlgorytmSchrage\AlgorytmSchrage\obj\Debug\netcoreapp3.1\AlgorytmSchrage.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\repozytorium\SPD\AlgorytmSchrage\AlgorytmSchrage\obj\Debug\netcoreapp3.1\AlgorytmSchrage.AssemblyInfo.cs
+D:\Users\User\Desktop\repozytorium\SPD\AlgorytmSchrage\AlgorytmSchrage\obj\Debug\netcoreapp3.1\AlgorytmSchrage.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\repozytorium\SPD\AlgorytmSchrage\AlgorytmSchrage\obj\Debug\netcoreapp3.1\AlgorytmSchrage.dll
+D:\Users\User\Desktop\repozytorium\SPD\AlgorytmSchrage\AlgorytmSchrage\obj\Debug\netcoreapp3.1\AlgorytmSchrage.pdb
+D:\Users\User\Desktop\repozytorium\SPD\AlgorytmSchrage\AlgorytmSchrage\obj\Debug\netcoreapp3.1\AlgorytmSchrage.genruntimeconfig.cache
