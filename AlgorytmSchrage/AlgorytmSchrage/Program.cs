@@ -22,6 +22,7 @@ namespace AlgorytmSchrage
             List<TaskLine> G = new List<TaskLine>();
             int time = 0;
             int c = 0;
+            int k = 0;
 
             for (int i = 1; i < n + 1; i++)
             {
@@ -48,8 +49,7 @@ namespace AlgorytmSchrage
                 else
                 {
                     TaskLine temp = G.First();
-
-                    Console.WriteLine(temp.R + " " + temp.P + " " + temp.Q);
+                    Console.WriteLine("pi(" + k++ + "):" + temp.R + " " + temp.P + " " + temp.Q);
                     G.RemoveAt(0);
                     time += temp.P;
                     c = Math.Max(c, time + temp.Q);

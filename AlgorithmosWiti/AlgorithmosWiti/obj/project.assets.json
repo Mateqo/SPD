@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\User\\Desktop\\repozytorium\\SPD\\SplitSchrageAlgorithmus\\SplitSchrageAlgorithmus\\SplitSchrageAlgorithmus.csproj",
-      "projectName": "SplitSchrageAlgorithmus",
-      "projectPath": "D:\\Users\\User\\Desktop\\repozytorium\\SPD\\SplitSchrageAlgorithmus\\SplitSchrageAlgorithmus\\SplitSchrageAlgorithmus.csproj",
+      "projectUniqueName": "D:\\Users\\User\\Desktop\\repos\\AlgorithmosWiti\\AlgorithmosWiti\\AlgorithmosWiti.csproj",
+      "projectName": "AlgorithmosWiti",
+      "projectPath": "D:\\Users\\User\\Desktop\\repos\\AlgorithmosWiti\\AlgorithmosWiti\\AlgorithmosWiti.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\User\\Desktop\\repozytorium\\SPD\\SplitSchrageAlgorithmus\\SplitSchrageAlgorithmus\\obj\\",
+      "outputPath": "D:\\Users\\User\\Desktop\\repos\\AlgorithmosWiti\\AlgorithmosWiti\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

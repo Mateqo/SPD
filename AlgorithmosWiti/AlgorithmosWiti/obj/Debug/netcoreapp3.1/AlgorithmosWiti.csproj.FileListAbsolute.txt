@@ -1,0 +1,13 @@
+D:\Users\User\Desktop\repos\AlgorithmosWiti\AlgorithmosWiti\bin\Debug\netcoreapp3.1\AlgorithmosWiti.exe
+D:\Users\User\Desktop\repos\AlgorithmosWiti\AlgorithmosWiti\bin\Debug\netcoreapp3.1\AlgorithmosWiti.deps.json
+D:\Users\User\Desktop\repos\AlgorithmosWiti\AlgorithmosWiti\bin\Debug\netcoreapp3.1\AlgorithmosWiti.runtimeconfig.json
+D:\Users\User\Desktop\repos\AlgorithmosWiti\AlgorithmosWiti\bin\Debug\netcoreapp3.1\AlgorithmosWiti.runtimeconfig.dev.json
+D:\Users\User\Desktop\repos\AlgorithmosWiti\AlgorithmosWiti\bin\Debug\netcoreapp3.1\AlgorithmosWiti.dll
+D:\Users\User\Desktop\repos\AlgorithmosWiti\AlgorithmosWiti\bin\Debug\netcoreapp3.1\AlgorithmosWiti.pdb
+D:\Users\User\Desktop\repos\AlgorithmosWiti\AlgorithmosWiti\obj\Debug\netcoreapp3.1\AlgorithmosWiti.csprojAssemblyReference.cache
+D:\Users\User\Desktop\repos\AlgorithmosWiti\AlgorithmosWiti\obj\Debug\netcoreapp3.1\AlgorithmosWiti.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\repos\AlgorithmosWiti\AlgorithmosWiti\obj\Debug\netcoreapp3.1\AlgorithmosWiti.AssemblyInfo.cs
+D:\Users\User\Desktop\repos\AlgorithmosWiti\AlgorithmosWiti\obj\Debug\netcoreapp3.1\AlgorithmosWiti.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\repos\AlgorithmosWiti\AlgorithmosWiti\obj\Debug\netcoreapp3.1\AlgorithmosWiti.dll
+D:\Users\User\Desktop\repos\AlgorithmosWiti\AlgorithmosWiti\obj\Debug\netcoreapp3.1\AlgorithmosWiti.pdb
+D:\Users\User\Desktop\repos\AlgorithmosWiti\AlgorithmosWiti\obj\Debug\netcoreapp3.1\AlgorithmosWiti.genruntimeconfig.cache
