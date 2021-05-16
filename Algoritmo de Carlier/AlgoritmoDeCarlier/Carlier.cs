@@ -9,7 +9,7 @@ namespace AlgoritmoDeCarlier
 		public static void CarlierAlgorithm(List<TaskLine> Tasks, ref int ub)
 		{
 			int u = Schrage.SchrageBasic(Tasks);
-
+			object tmp = Schrage.Pi;
 			if (u < ub)
 			{
 				ub = u;
@@ -107,7 +107,7 @@ namespace AlgoritmoDeCarlier
 			return b;
 		}
 
-		public static int FindC(List<TaskLine> Pi, int Cmax, int a, int b)
+		public static int FindC(List<TaskLine> Pi, int Cmax, int b, int a)
 		{
 			int c = -1;
 			int time = Pi[0].R;

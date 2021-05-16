@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\AlgoritmoDeCarlier\\AlgoritmoDeCarlier\\AlgoritmoDeCarlier.csproj",
+      "projectUniqueName": "D:\\Users\\User\\Desktop\\repozytorium\\SPD\\Algoritmo de Carlier\\AlgoritmoDeCarlier\\AlgoritmoDeCarlier.csproj",
       "projectName": "AlgoritmoDeCarlier",
-      "projectPath": "C:\\Users\\User\\source\\repos\\AlgoritmoDeCarlier\\AlgoritmoDeCarlier\\AlgoritmoDeCarlier.csproj",
+      "projectPath": "D:\\Users\\User\\Desktop\\repozytorium\\SPD\\Algoritmo de Carlier\\AlgoritmoDeCarlier\\AlgoritmoDeCarlier.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\AlgoritmoDeCarlier\\AlgoritmoDeCarlier\\obj\\",
+      "outputPath": "D:\\Users\\User\\Desktop\\repozytorium\\SPD\\Algoritmo de Carlier\\AlgoritmoDeCarlier\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

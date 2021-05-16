@@ -11,3 +11,16 @@ C:\Users\User\source\repos\AlgoritmoDeCarlier\AlgoritmoDeCarlier\bin\Debug\netco
 C:\Users\User\source\repos\AlgoritmoDeCarlier\AlgoritmoDeCarlier\obj\Debug\netcoreapp3.1\AlgoritmoDeCarlier.dll
 C:\Users\User\source\repos\AlgoritmoDeCarlier\AlgoritmoDeCarlier\obj\Debug\netcoreapp3.1\AlgoritmoDeCarlier.pdb
 C:\Users\User\source\repos\AlgoritmoDeCarlier\AlgoritmoDeCarlier\obj\Debug\netcoreapp3.1\AlgoritmoDeCarlier.genruntimeconfig.cache
+D:\Users\User\Desktop\repozytorium\SPD\Algoritmo de Carlier\AlgoritmoDeCarlier\bin\Debug\netcoreapp3.1\AlgoritmoDeCarlier.exe
+D:\Users\User\Desktop\repozytorium\SPD\Algoritmo de Carlier\AlgoritmoDeCarlier\bin\Debug\netcoreapp3.1\AlgoritmoDeCarlier.deps.json
+D:\Users\User\Desktop\repozytorium\SPD\Algoritmo de Carlier\AlgoritmoDeCarlier\bin\Debug\netcoreapp3.1\AlgoritmoDeCarlier.runtimeconfig.json
+D:\Users\User\Desktop\repozytorium\SPD\Algoritmo de Carlier\AlgoritmoDeCarlier\bin\Debug\netcoreapp3.1\AlgoritmoDeCarlier.runtimeconfig.dev.json
+D:\Users\User\Desktop\repozytorium\SPD\Algoritmo de Carlier\AlgoritmoDeCarlier\bin\Debug\netcoreapp3.1\AlgoritmoDeCarlier.dll
+D:\Users\User\Desktop\repozytorium\SPD\Algoritmo de Carlier\AlgoritmoDeCarlier\bin\Debug\netcoreapp3.1\AlgoritmoDeCarlier.pdb
+D:\Users\User\Desktop\repozytorium\SPD\Algoritmo de Carlier\AlgoritmoDeCarlier\obj\Debug\netcoreapp3.1\AlgoritmoDeCarlier.csprojAssemblyReference.cache
+D:\Users\User\Desktop\repozytorium\SPD\Algoritmo de Carlier\AlgoritmoDeCarlier\obj\Debug\netcoreapp3.1\AlgoritmoDeCarlier.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\repozytorium\SPD\Algoritmo de Carlier\AlgoritmoDeCarlier\obj\Debug\netcoreapp3.1\AlgoritmoDeCarlier.AssemblyInfo.cs
+D:\Users\User\Desktop\repozytorium\SPD\Algoritmo de Carlier\AlgoritmoDeCarlier\obj\Debug\netcoreapp3.1\AlgoritmoDeCarlier.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\repozytorium\SPD\Algoritmo de Carlier\AlgoritmoDeCarlier\obj\Debug\netcoreapp3.1\AlgoritmoDeCarlier.dll
+D:\Users\User\Desktop\repozytorium\SPD\Algoritmo de Carlier\AlgoritmoDeCarlier\obj\Debug\netcoreapp3.1\AlgoritmoDeCarlier.pdb
+D:\Users\User\Desktop\repozytorium\SPD\Algoritmo de Carlier\AlgoritmoDeCarlier\obj\Debug\netcoreapp3.1\AlgoritmoDeCarlier.genruntimeconfig.cache

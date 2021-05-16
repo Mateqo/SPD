@@ -59,7 +59,6 @@ namespace AlgoritmoDeCarlier
 
         public static int SchrageBasic(List<TaskLine> Tasks)
         {
-            Pi.Clear();
             List<TaskLine> N = Tasks.Select(x => x.Copy(x)).ToList();
             List<TaskLine> G = new List<TaskLine>();
             TaskLine l = new TaskLine(0, 0, 0);
@@ -67,6 +66,9 @@ namespace AlgoritmoDeCarlier
             int c = 0;
 
             N = N.OrderBy(task => task.R).ToList();
+
+            if(N.Count > 0 || G.Count > 0)
+                Pi.Clear();
 
             while (N.Count > 0 || G.Count > 0)
             {
