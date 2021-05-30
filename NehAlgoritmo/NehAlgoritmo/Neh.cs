@@ -8,34 +8,35 @@ namespace NehAlgoritmo
     {
         public static int NehAlgorithm(List<List<int>> list)
         {
-            List<List<int>> copy = new List<List<int>>(list);
+            List<List<int>> copy = CopyDoubleList(list);
             List<List<int>> pi = new List<List<int>>();
-            List<int> job = new List<int>();
+            List<int> task = new List<int>();
 
             int cmax = int.MaxValue;
             int n = copy.Count();
 
-            for (int i = 0; i < copy[n - 1].Count(); i++)
+            for (int i = 0; i < copy[0].Count(); i++)
             {
-                job.Add(copy[n - 1][i]);
+                task.Add(copy[n - 1][i]);
             }
-            copy.RemoveAt(copy.Count() - 1);
-            pi.Add(job);
-            job.Clear();
+            copy.RemoveAt(n - 1);
+            pi.Add(new List<int>(task));
+
+            task.Clear();
 
             n = copy.Count();
 
-            for (int i = n - 1 ; i > 0; i--)
+            for (int i = n; i > 0; i--)
             {
-                for (int j = 0; j < copy[i].Count(); j++)
+                for (int j = 0; j < copy[0].Count(); j++)
                 {
-                    job.Add(copy[i][j]);
+                    task.Add(copy[i - 1][j]);
                 }
-                copy.RemoveAt(copy.Count() - 1);
+                copy.RemoveAt(i - 1);
 
-                List<List<int>> result = new List<List<int>>();
-                cmax = FindBestTaskPosition(ref pi, job);
-                job.Clear();
+                cmax = FindBestTaskPosition(ref pi, task);
+
+                task.Clear();
             }
 
             return cmax;
@@ -46,22 +47,22 @@ namespace NehAlgoritmo
             List<List<int>> newPi = new List<List<int>>();
             int cmax = int.MaxValue;
 
-            for(int i = 0; i <= list.Count(); i++)
+            for (int i = 0; i <= list.Count(); i++)
             {
-                List<List<int>> copy = new List<List<int>>(list);
+                List<List<int>> copy = CopyDoubleList(list);
 
-                copy.Insert(i, task);
+                copy.Insert(i, new List<int>(task));
 
                 int c = CalculateCmax(copy);
 
-                if(c < cmax)
+                if (c < cmax)
                 {
                     cmax = c;
-                    newPi = copy;
+                    newPi = CopyDoubleList(copy);
                 }
             }
 
-            list = newPi;
+            list = CopyDoubleList(newPi);
 
             return cmax;
         }
@@ -72,49 +73,58 @@ namespace NehAlgoritmo
             int m = list[0].Count();
             List<List<int>> endTimes = new List<List<int>>();
 
-            endTimes.Clear();
-
-            for(int i = 0; i < n; i++)
+            for (int i = 0; i < n; i++)
             {
-                List<int> tmp = new List<int>();
-                endTimes.Add(tmp);
+                endTimes.Add(new List<int>());
 
-                for(int j = 0; j < m; j++)
+                for (int j = 0; j < m; j++)
                 {
                     endTimes[i].Add(0);
                 }
             }
 
-            for(int i = 0; i < n; i++)
+            for (int i = 0; i < n; i++)
             {
-                for(int j = 0; j < m; j++)
+                for (int j = 0; j < m; j++)
                 {
-                    if(i == 0 && j == i)
+                    if (i == 0 && j == 0)
                     {
                         endTimes[i][j] = list[i][j];
                     }
-                    else if(i == 0)
+                    else if (i == 0)
                     {
                         endTimes[i][j] = list[i][j] + endTimes[i][j - 1];
                     }
-                    else if(j == 0)
+                    else if (j == 0)
                     {
                         endTimes[i][j] = list[i][j] + endTimes[i - 1][j];
                     }
                     else
                     {
-                        if(endTimes[i][j-1] > endTimes[i - 1][j])
+                        if (endTimes[i][j - 1] > endTimes[i - 1][j])
                         {
                             endTimes[i][j] = list[i][j] + endTimes[i][j - 1];
                         }
                         else
                         {
-                            endTimes[i][j] = list[i][j] + endTimes[i - i][j];
+                            endTimes[i][j] = list[i][j] + endTimes[i - 1][j];
                         }
                     }
                 }
             }
             return endTimes[n - 1][m - 1];
+        }
+
+        public static List<List<int>> CopyDoubleList(List<List<int>> list)
+        {
+            List<List<int>> result = new List<List<int>>();
+
+            foreach (var item in list)
+            {
+                result.Add(new List<int>(item));
+            }
+
+            return result;
         }
     }
 }

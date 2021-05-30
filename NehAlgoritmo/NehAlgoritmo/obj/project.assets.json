@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\NehAlgoritmo\\NehAlgoritmo\\NehAlgoritmo.csproj",
+      "projectUniqueName": "D:\\Users\\User\\Desktop\\repozytorium\\SPD\\NehAlgoritmo\\NehAlgoritmo\\NehAlgoritmo.csproj",
       "projectName": "NehAlgoritmo",
-      "projectPath": "C:\\Users\\User\\source\\repos\\NehAlgoritmo\\NehAlgoritmo\\NehAlgoritmo.csproj",
+      "projectPath": "D:\\Users\\User\\Desktop\\repozytorium\\SPD\\NehAlgoritmo\\NehAlgoritmo\\NehAlgoritmo.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\NehAlgoritmo\\NehAlgoritmo\\obj\\",
+      "outputPath": "D:\\Users\\User\\Desktop\\repozytorium\\SPD\\NehAlgoritmo\\NehAlgoritmo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

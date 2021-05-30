@@ -11,3 +11,16 @@ C:\Users\User\source\repos\NehAlgoritmo\NehAlgoritmo\obj\Debug\netcoreapp3.1\Neh
 C:\Users\User\source\repos\NehAlgoritmo\NehAlgoritmo\obj\Debug\netcoreapp3.1\NehAlgoritmo.dll
 C:\Users\User\source\repos\NehAlgoritmo\NehAlgoritmo\obj\Debug\netcoreapp3.1\NehAlgoritmo.pdb
 C:\Users\User\source\repos\NehAlgoritmo\NehAlgoritmo\obj\Debug\netcoreapp3.1\NehAlgoritmo.genruntimeconfig.cache
+D:\Users\User\Desktop\repozytorium\SPD\NehAlgoritmo\NehAlgoritmo\bin\Debug\netcoreapp3.1\NehAlgoritmo.exe
+D:\Users\User\Desktop\repozytorium\SPD\NehAlgoritmo\NehAlgoritmo\bin\Debug\netcoreapp3.1\NehAlgoritmo.deps.json
+D:\Users\User\Desktop\repozytorium\SPD\NehAlgoritmo\NehAlgoritmo\bin\Debug\netcoreapp3.1\NehAlgoritmo.runtimeconfig.json
+D:\Users\User\Desktop\repozytorium\SPD\NehAlgoritmo\NehAlgoritmo\bin\Debug\netcoreapp3.1\NehAlgoritmo.runtimeconfig.dev.json
+D:\Users\User\Desktop\repozytorium\SPD\NehAlgoritmo\NehAlgoritmo\bin\Debug\netcoreapp3.1\NehAlgoritmo.dll
+D:\Users\User\Desktop\repozytorium\SPD\NehAlgoritmo\NehAlgoritmo\bin\Debug\netcoreapp3.1\NehAlgoritmo.pdb
+D:\Users\User\Desktop\repozytorium\SPD\NehAlgoritmo\NehAlgoritmo\obj\Debug\netcoreapp3.1\NehAlgoritmo.csprojAssemblyReference.cache
+D:\Users\User\Desktop\repozytorium\SPD\NehAlgoritmo\NehAlgoritmo\obj\Debug\netcoreapp3.1\NehAlgoritmo.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\repozytorium\SPD\NehAlgoritmo\NehAlgoritmo\obj\Debug\netcoreapp3.1\NehAlgoritmo.AssemblyInfo.cs
+D:\Users\User\Desktop\repozytorium\SPD\NehAlgoritmo\NehAlgoritmo\obj\Debug\netcoreapp3.1\NehAlgoritmo.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\repozytorium\SPD\NehAlgoritmo\NehAlgoritmo\obj\Debug\netcoreapp3.1\NehAlgoritmo.dll
+D:\Users\User\Desktop\repozytorium\SPD\NehAlgoritmo\NehAlgoritmo\obj\Debug\netcoreapp3.1\NehAlgoritmo.pdb
+D:\Users\User\Desktop\repozytorium\SPD\NehAlgoritmo\NehAlgoritmo\obj\Debug\netcoreapp3.1\NehAlgoritmo.genruntimeconfig.cache
