@@ -12,7 +12,7 @@ namespace NehAlgoritmo
             List<List<int>> pi = new List<List<int>>();
             List<int> task = new List<int>();
 
-            int cmax = int.MaxValue;
+            int cmax = 0;
             int n = copy.Count();
 
             for (int i = 0; i < copy[0].Count(); i++)
@@ -42,14 +42,14 @@ namespace NehAlgoritmo
             return cmax;
         }
 
-        public static int FindBestTaskPosition(ref List<List<int>> list, List<int> task)
+        public static int FindBestTaskPosition(ref List<List<int>> pi, List<int> task)
         {
             List<List<int>> newPi = new List<List<int>>();
             int cmax = int.MaxValue;
 
-            for (int i = 0; i <= list.Count(); i++)
+            for (int i = 0; i <= pi.Count(); i++)
             {
-                List<List<int>> copy = CopyDoubleList(list);
+                List<List<int>> copy = CopyDoubleList(pi);
 
                 copy.Insert(i, new List<int>(task));
 
@@ -62,15 +62,15 @@ namespace NehAlgoritmo
                 }
             }
 
-            list = CopyDoubleList(newPi);
+            pi = CopyDoubleList(newPi);
 
             return cmax;
         }
 
-        public static int CalculateCmax(List<List<int>> list)
+        public static int CalculateCmax(List<List<int>> pi)
         {
-            int n = list.Count();
-            int m = list[0].Count();
+            int n = pi.Count();
+            int m = pi[0].Count();
             List<List<int>> endTimes = new List<List<int>>();
 
             for (int i = 0; i < n; i++)
@@ -89,26 +89,19 @@ namespace NehAlgoritmo
                 {
                     if (i == 0 && j == 0)
                     {
-                        endTimes[i][j] = list[i][j];
+                        endTimes[i][j] = pi[i][j];
                     }
                     else if (i == 0)
                     {
-                        endTimes[i][j] = list[i][j] + endTimes[i][j - 1];
+                        endTimes[i][j] = pi[i][j] + endTimes[i][j - 1];
                     }
                     else if (j == 0)
                     {
-                        endTimes[i][j] = list[i][j] + endTimes[i - 1][j];
+                        endTimes[i][j] = pi[i][j] + endTimes[i - 1][j];
                     }
                     else
                     {
-                        if (endTimes[i][j - 1] > endTimes[i - 1][j])
-                        {
-                            endTimes[i][j] = list[i][j] + endTimes[i][j - 1];
-                        }
-                        else
-                        {
-                            endTimes[i][j] = list[i][j] + endTimes[i - 1][j];
-                        }
+                        endTimes[i][j] = pi[i][j] + Math.Max(endTimes[i][j - 1], endTimes[i - 1][j]);
                     }
                 }
             }
